@@ -12,3 +12,7 @@ Face Image &amp; Pictures Album Service
 (2) 전체 파일 중 얼굴이 포함된 사진 및 이미지 분석 및 분리 저장(Clova CFR)
 
 (3) 얼굴이 포함된 사진만 추출하여 갤러리 타일 이미지 
+
+# My Gallery Service Gitbook
+
+https://mysm0722.gitbooks.io/my-project-book/content/ncp-my-face-image-gallery-service.html
